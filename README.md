@@ -5,7 +5,7 @@ Base projects of Spring Boot and Angular UI.
 Built to understand Docker and Docker Compose and communication between docker containers
 
 
-# How to Run Individually
+# How to Run Separately
 
 -- Build Server image
 
@@ -28,7 +28,7 @@ docker build -t demo-ui .
 docker run --name demo-ui -p 4200:80 -t demo-ui:latest
 
 
-# How to Run with each other
+# How to Run with one another
 
 docker-compose up
 
