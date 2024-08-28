@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DockerTryouts
 
 Base projects of Spring Boot and Angular UI.
@@ -30,3 +31,6 @@ docker run --name demo-ui -p 4200:80 -t demo-ui:latest
 # How to Run with each other
 
 docker-compose up
+=======
+# springboot-angular-docker-example
+>>>>>>> 2486f7c7725f0212c9935d3e162515f8d86c1e58
